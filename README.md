@@ -1,4 +1,4 @@
-About Me:
+# About Me:
 🔥 **Cris Sarmiento —Full Stack Developer | Problem Solver | Ex Flight Satellites Operations Engineer**
 
 
