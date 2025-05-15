@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔥 Cris Sarmiento — Full Stack Developer | Problem Solver | Ex Flight Satellites Operations Engineer <br><br><br>- 💼 Leading TestSenseAI (https://portfolio.testsense.ai), an open-source framework to revolutionise QA automation by empowering developers and slashing bureaucracy. Currently mastering Angular 9 with SOAP endpoints, proving versatility across tech stacks.<br>- 🛰️ Engineered critical subsystems for four satellites, including Argentina’s ARSAT-1, with two years of physics studies at National Cordoba University fueling my problem-solving.<br>- 🧠 Driven by AI, neuroscience, and evolutionary principles. Currently reading Sapolsky’s Determined to decode behavior and innovation.<br>- 💡 Skilled in JavaScript, React, Node.js, MongoDB, and RESTful APIs.<br>- 🎢 Fun Fact: Autistic/ADHDer<br>- 🎹 Off the keyboard, I compose horrorsynth music and chill with my cats 🐾.
+About Me:
+🔥 **Cris Sarmiento —Full Stack Developer | Problem Solver | Ex Flight Satellites Operations Engineer**
+
+
+- 💼 Leading TestSenseAI (https://portfolio.testsense.ai), an open-source framework to revolutionise QA automation by empowering developers and slashing bureaucracy. Currently mastering Angular 9 with SOAP endpoints, proving versatility across tech stacks.<br>
+-  🛰️ Engineered critical subsystems for four satellites, including Argentina’s ARSAT-1, with two years of physics studies at National Cordoba University fueling my problem-solving.<br>
+-  🧠 Driven by AI, neuroscience, and evolutionary principles. Currently reading Sapolsky’s Determined to decode behavior and innovation.<br>
+-  💡 Skilled in JavaScript, React, Node.js, MongoDB, and RESTful APIs.<br>
+-  🎢 Fun Fact: Autistic/ADHDer<br>
+-  🎹 Off the keyboard, I compose horrorsynth music and chill with my cats 🐾.
 
 
 ## 🌐 Socials:
