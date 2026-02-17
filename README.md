@@ -1,6 +1,6 @@
 <!-- Profile README for @crisesarmiento -->
 
-<h1 align="center">Cris E Sarmiento</h1>
+<h1 align="center">Cris Sarmiento</h1>
 
 <p align="center">
   <b>Full-Stack Architect · Applied AI Systems Builder</b><br/>
@@ -70,8 +70,7 @@
 <details>
   <summary><b>Show full badge wall</b></summary>
 
-  <!-- Keep your full badge wall here exactly as you had it -->
-  <!-- (No changes needed; just paste your existing badges here) -->
+  <!-- Paste your big badge wall here (unchanged) -->
 
 </details>
 
@@ -80,7 +79,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=crisesarmiento&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crisesarmiento&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -88,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=crisesarmiento&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisesarmiento&theme=synthwave&hide_border=false&layout=compact&cache_seconds=1800" />
 </p>
 
 ---
