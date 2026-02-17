@@ -1,6 +1,6 @@
 <!-- Profile README for @crisesarmiento -->
 
-<h1 align="center">Cris Sarmiento</h1>
+<h1 align="center">Cris E Sarmiento</h1>
 
 <p align="center">
   <b>Full-Stack Architect · Applied AI Systems Builder</b><br/>
