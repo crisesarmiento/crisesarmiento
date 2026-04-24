@@ -1,10 +1,12 @@
+<!-- BEGIN GITHUB README -->
+
 <!-- Profile README for @crisesarmiento -->
 
 <h1 align="center">Cris E Sarmiento</h1>
 
 <p align="center">
   <b>Full-Stack Architect · Applied AI Systems Builder</b><br/>
-  I ship production-ready web apps and backend systems — and increasingly, AI-integrated workflows.
+  From satellite control rooms to AI platforms — I ship production-grade systems that scale and survive.
 </p>
 
 <p align="center">
@@ -23,56 +25,59 @@
 
 ## 🔥 About
 
-- 🧠 **Architecture-first full-stack engineer**: domain modeling, scalable APIs, maintainable codebases.
-- 🤖 **Applied AI focus**: LLM features (extraction, summarization, smart templates), agentic workflows, automation.
-- 🛰️ Former aerospace systems engineer — built and operated critical subsystems for four satellites (incl. ARSAT-1).
-- 🎹 I also compose horrorsynth music and chill with my cats 🐾
+- 🧠 **Architecture-first full-stack engineer** — domain modeling, scalable APIs, maintainable codebases over 12+ years.
+- 🤖 **Applied AI builder** — LLM features (extraction, summarization, smart templates), agentic workflows, observability-first backends.
+- 🛰️ **Ex-aerospace systems engineer (INVAP, 7 yrs)** — operated ARSAT-1, ARSAT-2, and SAOCOM satellites. That rigor shows up in everything I ship.
+- 🎹 Off-hours I compose horrorsynth as **Cristian Bergagna** and hang out with my cats.
 
 ---
 
-## 🚀 Featured Project — InvoiceScope
+## 🚀 Featured Work
 
-> A modern invoice generator tailored for contractors and service providers.
+### 🧪 TestSenseAI
+> **AI-powered test gap analysis for TypeScript codebases.** Find what you're not testing — before it finds you.
 
-**Stack:** Next.js 15 · TypeScript · Prisma · PostgreSQL · Docker  
-✔ Deterministic Docker setup (one-command boot)  
-✔ Automated Prisma migrations inside container  
-✔ Designed for contractor workflows  
+Applying LLMs to the hardest problem in shipping software: knowing *what still isn't covered*. Architecture-first, production-grade, built for teams that actually care about reliability.
 
-🔗 https://github.com/crisesarmiento/invoice-scope
+🔗 [testsense.ai](https://testsense.ai) · [github.com/crisesarmiento/testsense](https://github.com/crisesarmiento/testsense)
+
+### 💸 InvoiceScope
+> **A modern invoice generator tailored for contractors and service providers.**
+
+**Stack:** Next.js 15 · TypeScript · Prisma · PostgreSQL · Docker
+✔ Deterministic Docker setup (one-command boot)
+✔ Automated Prisma migrations inside container
+✔ Designed for contractor workflows
+
+🔗 [github.com/crisesarmiento/invoice-scope](https://github.com/crisesarmiento/invoice-scope)
 
 ---
 
-## 🧪 Futuristic AI Lab
+## 📌 Pinned Projects
 
-- LLM-powered product features (document extraction, summarization, workflow assistance)
-- Agentic automation pipelines
-- Observability-first backend systems
-- Production-grade AI-integrated SaaS
-
----
-
-## 🌐 Socials
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/cristiasarmiento)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristianesarmiento)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cristiansarmiento)
-[![Mastodon](https://img.shields.io/badge/-Mastodon-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@csarmiento)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cristian@testsense.ai)
+<p align="center">
+  <a href="https://github.com/crisesarmiento/testsense">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crisesarmiento&repo=testsense&theme=synthwave&hide_border=false" />
+  </a>
+  <a href="https://github.com/crisesarmiento/invoice-scope">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crisesarmiento&repo=invoice-scope&theme=synthwave&hide_border=false" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/crisesarmiento/vision-total-ar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crisesarmiento&repo=vision-total-ar&theme=synthwave&hide_border=false" />
+  </a>
+  <a href="https://github.com/crisesarmiento/raycast-extension-site-bookmarks-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crisesarmiento&repo=raycast-extension-site-bookmarks-manager&theme=synthwave&hide_border=false" />
+  </a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-**Primary:** Next.js · React · TypeScript · Node/NestJS · Python/FastAPI · PostgreSQL · Prisma · AWS · Docker · Terraform  
+**Primary:** Next.js · React · TypeScript · Node/NestJS · Python/FastAPI · PostgreSQL · Prisma · AWS · Docker · Terraform
 **Also used:** DynamoDB · ECS/Lambda · CI/CD · Datadog
-
-<details>
-  <summary><b>Show full badge wall</b></summary>
-
-  <!-- Paste your big badge wall here (unchanged) -->
-
-</details>
 
 ---
 
@@ -92,25 +97,29 @@
 
 ---
 
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crisesarmiento&theme=synthwave&hide_border=false&area=true" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=crisesarmiento&theme=monokai&row=1&column=6&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=crisesarmiento&theme=monokai&row=1&column=6&margin-w=10&no-bg=false" />
 </p>
 
 ---
 
-## 🔝 Top Contributed Repo
+## 🌐 Socials
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=crisesarmiento&limit=6&theme=transparent&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=crisesarmiento&icon=0&color=0" />
-</p>
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/cristiasarmiento)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristianesarmiento)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cristiansarmiento)
+[![Mastodon](https://img.shields.io/badge/-Mastodon-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@csarmiento)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cristian@testsense.ai)
 
 ---
 
@@ -122,4 +131,4 @@ If my work helps you, you can support me here:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cristianbergagna)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/TestSenseAi)
 
----
+<!-- END GITHUB README -->
