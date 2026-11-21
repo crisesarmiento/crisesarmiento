@@ -1,134 +1,92 @@
-<!-- BEGIN GITHUB README -->
-
 <!-- Profile README for @crisesarmiento -->
 
-<h1 align="center">Cris E Sarmiento</h1>
-
 <p align="center">
-  <b>Full-Stack Architect · Applied AI Systems Builder</b><br/>
-  From satellite control rooms to AI platforms — I ship production-grade systems that scale and survive.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+    <img alt="Cristian Sarmiento. Software engineer. I used to operate satellites; now I build tools that show what AI agents actually did." src="assets/header-dark.svg" width="860">
+  </picture>
 </p>
 
 <p align="center">
   <a href="https://portfolio.testsense.ai">Portfolio</a> ·
-  <a href="https://testsense.ai">TestSenseAI</a> ·
   <a href="https://linkedin.com/in/cristianesarmiento">LinkedIn</a> ·
-  <a href="https://medium.com/@cristiansarmiento">Medium</a> ·
-  <a href="mailto:cristian@testsense.ai">Email</a>
+  <a href="https://cristiansarmiento.substack.com">Substack</a> ·
+  <a href="https://x.com/crisesarmiento">X</a> ·
+  <a href="https://github.com/sponsors/crisesarmiento">Sponsor</a> ·
+  <a href="https://ko-fi.com/cristiansarmiento">Ko-fi</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=980&lines=AI+startup-ready+Full-Stack+Architect;LLM-powered+features+%7C+Agentic+workflows+%7C+Automation;Backend-heavy+systems+%7C+Clean+domain+modeling;Building+AI-integrated+products+that+scale+and+survive" />
-</p>
+I'm Cristian, a software engineer in Córdoba, Argentina, with 12+ years of shipping software.
+The first seven were at INVAP, on satellite missions. Since then I've built backends,
+full-stack apps and test infrastructure, mostly in healthcare and logistics. These days most of my work is making AI-assisted engineering
+reliable: tools that show what an agent actually did, and workflows that don't hide failures.
 
----
+## Now
 
-## 🔥 About
+- Leading AI-assisted engineering and delivery at a software consultancy.
+- Building **Route** on nights and weekends.
+- Running my own agent stack on Linux (Omarchy) and macOS, with OpenCode at the center.
 
-- 🧠 **Architecture-first full-stack engineer** — domain modeling, scalable APIs, maintainable codebases over 12+ years.
-- 🤖 **Applied AI builder** — LLM features (extraction, summarization, smart templates), agentic workflows, observability-first backends.
-- 🛰️ **Ex-aerospace systems engineer (INVAP, 7 yrs)** — operated ARSAT-1, ARSAT-2, and SAOCOM satellites. That rigor shows up in everything I ship.
-- 🎹 Off-hours I compose horrorsynth as **Cristian Bergagna** and hang out with my cats.
+## Building
 
----
+### [Route](https://github.com/crisesarmiento/useroute) · honest model routing observability
+A local-first dashboard for [OpenCode](https://opencode.ai) routing. It shows the suggestions,
+context, routes, usage and errors that the logs can actually prove, and nothing more.
 
-## 🚀 Featured Work
+- Unknown is shown as unknown, never as zero. Partial and missing data have their own states.
+- Demo data is always labeled `DEMO`.
+- Binds to `127.0.0.1` only, no telemetry, and never reads credential files.
 
-### 🧪 TestSenseAI
-> **AI-powered test gap analysis for TypeScript codebases.** Find what you're not testing — before it finds you.
+`TypeScript` · `Bun` · `Electron` · MIT
 
-Applying LLMs to the hardest problem in shipping software: knowing *what still isn't covered*. Architecture-first, production-grade, built for teams that actually care about reliability.
+### [Starship Flight 15 sim](https://github.com/crisesarmiento/starship-flight-15-sim) · unofficial · [Live demo](https://crisesarmiento.github.io/starship-flight-15-sim/)
+An interactive three.js walkthrough of Starship Flight 15 built from public data: launch,
+hot staging, boostback, live osculating orbit, Starlink deployment and the tower catch.
+Every telemetry value carries its source and a confidence level
+(official, reported, estimated, computed, interpolated).
 
-🔗 [testsense.ai](https://testsense.ai) · [github.com/crisesarmiento/testsense](https://github.com/crisesarmiento/testsense)
+> Educational approximation. Not affiliated with or endorsed by SpaceX.
 
-### 💸 InvoiceScope
-> **A modern invoice generator tailored for contractors and service providers.**
+`TypeScript` · `three.js` · `WebGL` · MIT
 
-**Stack:** Next.js 15 · TypeScript · Prisma · PostgreSQL · Docker
-✔ Deterministic Docker setup (one-command boot)
-✔ Automated Prisma migrations inside container
-✔ Designed for contractor workflows
+### [Gastos Abiertos Córdoba](https://crisesarmiento.github.io/gastos-abiertos-cba/) · unofficial civic project
+A static site that turns the official budget-execution files of the Province of Córdoba into
+something you can browse. It uses a polite scraper, DuckDB and Parquet, and plain HTML with no CDN.
+Data from the provincial transparency portal; not an official government site.
+([code](https://github.com/crisesarmiento/gastos-abiertos-cba))
 
-🔗 [github.com/crisesarmiento/invoice-scope](https://github.com/crisesarmiento/invoice-scope)
+`Python` · `DuckDB` · MIT
 
----
+<details>
+<summary>Smaller tools</summary>
 
-## 📌 Pinned Projects
+- [opencode-context-usage](https://github.com/crisesarmiento/opencode-context-usage): a `/context` command for OpenCode that shows what's eating your context window.
+- [TestSense](https://github.com/crisesarmiento/testsense): AI-assisted test gap analysis for TypeScript codebases. An early 2023 experiment, now paused.
+- [omarchy-mgame-mixer](https://github.com/crisesarmiento/omarchy-mgame-mixer) and [omarchy-elgato-camerahub](https://github.com/crisesarmiento/omarchy-elgato-camerahub): Omarchy bar widgets for my audio interface and cameras.
+- [invoice-scope](https://github.com/crisesarmiento/invoice-scope): invoice generator for contractors (Next.js, Prisma, Postgres, one-command Docker boot).
 
-<p align="center">
-  <a href="https://github.com/crisesarmiento/testsense">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crisesarmiento&repo=testsense&theme=synthwave&hide_border=false" />
-  </a>
-  <a href="https://github.com/crisesarmiento/invoice-scope">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crisesarmiento&repo=invoice-scope&theme=synthwave&hide_border=false" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/crisesarmiento/vision-total-ar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crisesarmiento&repo=vision-total-ar&theme=synthwave&hide_border=false" />
-  </a>
-  <a href="https://github.com/crisesarmiento/raycast-extension-site-bookmarks-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crisesarmiento&repo=raycast-extension-site-bookmarks-manager&theme=synthwave&hide_border=false" />
-  </a>
-</p>
+</details>
 
----
+## Background
 
-## 💻 Tech Stack
+- **INVAP, 2013–2019, on site at CONAE (SAOCOM mission support).** I built the SAOCOM Mission Simulator (C++ core, Python + Qt GUI, and the API between them).
+  I ran power-subsystem operations for ARSAT-1 and ARSAT-2 during launch and orbit maneuvers,
+  monitored SAOCOM-1A/1B thermal, and wrote telemetry analysis tools.
+- **Healthcare and logistics, 2019–2025.** Four years at a major US healthcare company, where I started as a developer and ended up leading the team,
+  building serverless APIs and micro frontends on AWS under SOC 2 / HIPAA. I also built a Cypress
+  QA framework from scratch that 40+ people still use, a constraint-based therapy scheduler for a US autism therapy center
+  (Python, PuLP/HiGHS), and a rebuild of the tracking extranet for a major Argentine logistics company.
+- **AI work, 2026.** Prompt design and code review on AI projects through a US tech talent platform.
+- **Early career, 2008–2013.** Help desk, then QA, including QC at Globant (Playdom/Disney).
 
-**Primary:** Next.js · React · TypeScript · Node/NestJS · Python/FastAPI · PostgreSQL · Prisma · AWS · Docker · Terraform
-**Also used:** DynamoDB · ECS/Lambda · CI/CD · Datadog
+## Toolbox
 
----
+TypeScript · Python · Node/NestJS · FastAPI · React/Next.js · PostgreSQL · AWS · Terraform ·
+Playwright/Cypress · C++ when it's earned · OpenCode and agent workflows
 
-## 📊 GitHub Stats
+## Off-hours
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crisesarmiento&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
-</p>
+I'm building a city builder in Godot at [Palehour](https://palehour.github.io/), my small game studio (private for now, just for fun), and my cats supervise.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=crisesarmiento&theme=synthwave&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisesarmiento&theme=synthwave&hide_border=false&layout=compact&cache_seconds=1800" />
-</p>
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crisesarmiento&theme=synthwave&hide_border=false&area=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=crisesarmiento&theme=monokai&row=1&column=6&margin-w=10&no-bg=false" />
-</p>
-
----
-
-## 🌐 Socials
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/cristiasarmiento)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristianesarmiento)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cristiansarmiento)
-[![Mastodon](https://img.shields.io/badge/-Mastodon-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@csarmiento)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cristian@testsense.ai)
-
----
-
-### ☕ Support My Work
-
-If my work helps you, you can support me here:
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/testsenseai)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cristianbergagna)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/TestSenseAi)
-
-<!-- END GITHUB README -->
+<a href="https://palehour.github.io/"><img src="assets/palehour-banner.jpg" alt="Palehour: a pale crescent arc over dark fog, with the word PALEHOUR below" width="480"></a>

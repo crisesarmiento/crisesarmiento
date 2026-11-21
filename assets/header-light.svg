@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 220" width="860" height="220" role="img" aria-labelledby="t d">
+<title id="t">Cristian Sarmiento</title>
+<desc id="d">I used to operate satellites. Now I build tools that show what AI agents actually did.</desc>
+<style>
+.sat{transform:none;offset-path:path("M110 0A110 34 0 1 1-110 0A110 34 0 1 1 110 0");offset-rotate:0deg;animation:orbit 12s linear infinite}
+@supports not (offset-path:path("M0 0")){.sat{transform:translate(110px,0)}}
+@keyframes orbit{from{offset-distance:0%}to{offset-distance:100%}}
+.core{animation:pulse 4s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.4}}
+.in{animation:rise .9s ease-out both}
+.in2{animation-delay:.25s}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="860" height="220" rx="14" fill="#FFFFFF"/>
+<rect x="48" y="52" width="28" height="3" rx="1.5" fill="#0891B2"/>
+<text x="48" y="108" class="in" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="44" font-weight="600" letter-spacing="-1" fill="#0B0F14">Cristian Sarmiento</text>
+<text x="48" y="168" class="in in2" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="400" fill="#0B0F14">I used to operate satellites. Now I build tools that show what AI agents actually did.</text>
+<g transform="translate(730 88) rotate(-16)">
+<ellipse rx="110" ry="34" fill="none" stroke="#CBD5E1" stroke-width="1"/>
+<ellipse rx="66" ry="20" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="2 5"/>
+<circle class="core" r="7" fill="#0891B2"/>
+<circle r="15" fill="none" stroke="#0891B2" stroke-opacity=".35"/>
+<g class="sat" transform="translate(110 0)"><circle r="5" fill="#0891B2"/><circle r="10" fill="#0891B2" opacity=".15"/></g>
+</g>
+</svg>
