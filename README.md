@@ -62,6 +62,7 @@ Data from the provincial transparency portal; not an official government site.
 <summary>Smaller tools</summary>
 
 - [opencode-context-usage](https://github.com/crisesarmiento/opencode-context-usage): a `/context` command for OpenCode that shows what's eating your context window.
+- [cstack](https://github.com/crisesarmiento/cstack): a versioned AI coding stack — skills, principles and OpenCode presets.
 - [TestSense](https://github.com/crisesarmiento/testsense): AI-assisted test gap analysis for TypeScript codebases. An early 2023 experiment, now paused.
 - [omarchy-mgame-mixer](https://github.com/crisesarmiento/omarchy-mgame-mixer) and [omarchy-elgato-camerahub](https://github.com/crisesarmiento/omarchy-elgato-camerahub): Omarchy bar widgets for my audio interface and cameras.
 - [invoice-scope](https://github.com/crisesarmiento/invoice-scope): invoice generator for contractors (Next.js, Prisma, Postgres, one-command Docker boot).
@@ -84,6 +85,50 @@ Data from the provincial transparency portal; not an official government site.
 
 TypeScript · Python · Node/NestJS · FastAPI · React/Next.js · PostgreSQL · AWS · Terraform ·
 Playwright/Cypress · C++ when it's earned · OpenCode and agent workflows
+
+## Mission Control
+
+These panels are generated from my GitHub data and committed to this repository by a daily Action. They are not live remote widgets. Private contribution counts appear only as a total. Private off-hours work is omitted, not shown as zero.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/mission-control/telemetry-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/mission-control/telemetry-light.svg">
+    <img alt="Mission Control telemetry: 2026 contributions, commits, pull requests, issues, current streak and public repos, plus a public-versus-private history." src="assets/mission-control/telemetry-dark.svg" width="860">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/mission-control/ground-track-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/mission-control/ground-track-light.svg">
+    <img alt="Ground track of the last 365 days of GitHub contributions, with weekly signal, a daily heatmap and the current streak." src="assets/mission-control/ground-track-dark.svg" width="860">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/mission-control/flight-log-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/mission-control/flight-log-light.svg">
+    <img alt="Flight log of recent public GitHub events." src="assets/mission-control/flight-log-dark.svg" width="860">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/mission-control/mission-board-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/mission-control/mission-board-light.svg">
+    <img alt="Mission board of public projects with live, building, available, paused and off-hours states." src="assets/mission-control/mission-board-dark.svg" width="860">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/mission-control/spectrum-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/mission-control/spectrum-light.svg">
+    <img alt="Language spectrum of public owned repositories, by source bytes." src="assets/mission-control/spectrum-dark.svg" width="860">
+  </picture>
+</p>
 
 ## Off-hours
 

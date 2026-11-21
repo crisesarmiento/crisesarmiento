@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 338" width="860" height="338" role="img" aria-labelledby="mb-dark-t mb-dark-d">
+<title id="mb-dark-t">Mission board of public projects</title>
+<desc id="mb-dark-d">Status board of public projects and off-hours studio work.</desc>
+<style>
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.35}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="860" height="338" rx="14" fill="#0B0F14" stroke="#2A3644" stroke-width="1"/>
+<rect x="28" y="18" width="28" height="3" rx="1.5" fill="#22D3EE"/>
+<text x="28" y="42" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" letter-spacing="1.8" fill="#22D3EE">MISSION BOARD</text>
+<circle class="pulse" cx="818" cy="38" r="3.5" fill="#22D3EE"/>
+<text x="808" y="42" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0.4" fill="#8B9AAB">STATUS FROM PUBLIC SIGNALS</text>
+<text x="28" y="64" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9" font-weight="600" letter-spacing="1.2" fill="#8B9AAB">STATUS</text>
+<text x="160" y="64" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9" font-weight="600" letter-spacing="1.2" fill="#8B9AAB">MISSION</text>
+<text x="430" y="64" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9" font-weight="600" letter-spacing="1.2" fill="#8B9AAB">LAST SIGNAL</text>
+<text x="580" y="64" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9" font-weight="600" letter-spacing="1.2" fill="#8B9AAB">NOTE</text>
+<line x1="28" y1="72" x2="832" y2="72" stroke="#2A3644" stroke-width="1"/>
+<circle cx="36" cy="90" r="4.5" fill="none" stroke="#22D3EE" stroke-width="1.6"/>
+<circle class="pulse" cx="36" cy="90" r="2" fill="#22D3EE"/>
+<text x="52" y="94" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">BUILDING</text>
+<text x="160" y="94" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="0" fill="#E6EDF3">Route</text>
+<text x="430" y="94" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">19 NOV 2026</text>
+<text x="580" y="94" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">Honest model routing observability</text>
+<circle cx="36" cy="118" r="4.5" fill="#22D3EE"/>
+<text x="52" y="122" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">LIVE</text>
+<text x="160" y="122" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="0" fill="#E6EDF3">Starship Flight 15 sim</text>
+<text x="430" y="122" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">21 NOV 2026</text>
+<text x="580" y="122" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">Live demo on GitHub Pages</text>
+<circle cx="36" cy="146" r="4.5" fill="#22D3EE"/>
+<text x="52" y="150" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">LIVE</text>
+<text x="160" y="150" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="0" fill="#E6EDF3">Gastos Abiertos Córdoba</text>
+<text x="430" y="150" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">17 NOV 2026</text>
+<text x="580" y="150" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">Civic budget explorer</text>
+<circle cx="36" cy="174" r="4.5" fill="none" stroke="#22D3EE" stroke-width="1.6"/>
+<circle class="pulse" cx="36" cy="174" r="2" fill="#22D3EE"/>
+<text x="52" y="178" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">BUILDING</text>
+<text x="160" y="178" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="0" fill="#E6EDF3">cstack</text>
+<text x="430" y="178" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">21 NOV 2026</text>
+<text x="580" y="178" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">Versioned AI coding stack</text>
+<circle cx="36" cy="202" r="4.5" fill="#8B9AAB" opacity=".55"/>
+<text x="52" y="206" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#8B9AAB">AVAILABLE</text>
+<text x="160" y="206" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="0" fill="#E6EDF3">opencode-context-usage</text>
+<text x="430" y="206" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">1 NOV 2026</text>
+<text x="580" y="206" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">OpenCode /context command</text>
+<circle cx="36" cy="230" r="4.5" fill="#8B9AAB" opacity=".55"/>
+<text x="52" y="234" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#8B9AAB">AVAILABLE</text>
+<text x="160" y="234" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="0" fill="#E6EDF3">invoice-scope</text>
+<text x="430" y="234" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">17 MAR 2026</text>
+<text x="580" y="234" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">Invoice generator for contractors</text>
+<circle cx="36" cy="258" r="4.5" fill="#8B9AAB" opacity=".55"/>
+<text x="52" y="262" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#8B9AAB">PAUSED</text>
+<text x="160" y="262" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="0" fill="#E6EDF3">TestSense</text>
+<text x="430" y="262" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">1 APR 2026</text>
+<text x="580" y="262" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">Early 2023 experiment, now paused</text>
+<circle cx="36" cy="286" r="4.5" fill="#8B9AAB" opacity=".55"/>
+<text x="52" y="290" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#8B9AAB">OFF-HOURS</text>
+<a href="https://palehour.github.io/" target="_blank"><text x="160" y="290" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="0" fill="#E6EDF3">Palehour</text>
+</a>
+<text x="430" y="290" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">PRIVATE</text>
+<text x="580" y="290" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">Studio site only; the game repo stays private</text>
+<text x="28" y="326" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="9" font-weight="400" letter-spacing="0" fill="#8B9AAB">LIVE / BUILDING are current public work. AVAILABLE means the repo is public and idle. PAUSED is as stated in the README. Palehour last-signal is withheld because the repo is private.</text>
+</svg>

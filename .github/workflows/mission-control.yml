@@ -1,0 +1,62 @@
+# Mission Control panels for crisesarmiento/crisesarmiento.
+#
+# Optional: add a classic PAT with read:user as the repository secret
+# METRICS_TOKEN (add repo scope only if private contributions should count).
+# Leave it unset until configured in repository settings. Without it the
+# run uses GITHUB_TOKEN. If no private aggregates are visible, contribution
+# figures are labeled public-only. Private work is never broken out per
+# day or repository.
+name: Mission Control
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # 06:17 UTC daily
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - "scripts/mission-control/**"
+      - ".github/workflows/mission-control.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    # Guard: a workflow_dispatch on a feature branch must never render
+    # into, or push to, master. Everything below runs on master only.
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render Mission Control SVGs
+        env:
+          # Prefer METRICS_TOKEN when present so the yearly aggregates can
+          # include private contributions as totals. Never print the token.
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          MISSION_CONTROL_OUT: assets/mission-control
+        run: |
+          mkdir -p assets/mission-control
+          python3 scripts/mission-control/generate_mission_control.py
+
+      - name: Commit if the panels changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Stage only the generated panels: nothing else can slip in.
+          git add assets/mission-control/*.svg
+          if git diff --cached --quiet; then
+            echo "No panel changes"
+            exit 0
+          fi
+          git commit -m "📡 Update Mission Control panels"
+          # The job guard above guarantees we are on master; the explicit
+          # refspec also works from a detached checkout.
+          git push origin HEAD:master

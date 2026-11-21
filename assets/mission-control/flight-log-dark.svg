@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 354" width="860" height="354" role="img" aria-labelledby="fl-dark-t fl-dark-d">
+<title id="fl-dark-t">Public GitHub flight log</title>
+<desc id="fl-dark-d">Recent public GitHub events, excluding private off-hours work.</desc>
+<style>
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.35}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="860" height="354" rx="14" fill="#0B0F14" stroke="#2A3644" stroke-width="1"/>
+<rect x="28" y="18" width="28" height="3" rx="1.5" fill="#22D3EE"/>
+<text x="28" y="42" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" letter-spacing="1.8" fill="#22D3EE">FLIGHT LOG  //  PUBLIC EVENTS</text>
+<circle class="pulse" cx="818" cy="38" r="3.5" fill="#22D3EE"/>
+<text x="808" y="42" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0.4" fill="#8B9AAB">NEWEST FIRST</text>
+<text x="28" y="64" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9" font-weight="600" letter-spacing="1.2" fill="#8B9AAB">TIME (UTC)</text>
+<text x="200" y="64" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9" font-weight="600" letter-spacing="1.2" fill="#8B9AAB">EVENT</text>
+<text x="360" y="64" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9" font-weight="600" letter-spacing="1.2" fill="#8B9AAB">VEHICLE</text>
+<text x="560" y="64" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9" font-weight="600" letter-spacing="1.2" fill="#8B9AAB">NOTE</text>
+<line x1="28" y1="72" x2="832" y2="72" stroke="#2A3644" stroke-width="1"/>
+<text x="28" y="92" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">21 NOV  13:33</text>
+<text x="200" y="92" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">PR OPENED</text>
+<text x="360" y="92" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#E6EDF3">cstack</text>
+<text x="560" y="92" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">#6</text>
+<text x="28" y="114" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">21 NOV  13:24</text>
+<text x="200" y="114" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">PUSH</text>
+<text x="360" y="114" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#E6EDF3">profile</text>
+<text x="560" y="114" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB"></text>
+<text x="28" y="136" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">21 NOV  13:24</text>
+<text x="200" y="136" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">PR MERGED</text>
+<text x="360" y="136" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#E6EDF3">profile</text>
+<text x="560" y="136" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">#1</text>
+<text x="28" y="158" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">21 NOV  13:23</text>
+<text x="200" y="158" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">PR OPENED</text>
+<text x="360" y="158" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#E6EDF3">profile</text>
+<text x="560" y="158" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">#1</text>
+<text x="28" y="180" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">21 NOV  13:18</text>
+<text x="200" y="180" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">PR MERGED</text>
+<text x="360" y="180" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#E6EDF3">cstack</text>
+<text x="560" y="180" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">#5</text>
+<text x="28" y="202" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">21 NOV  13:17</text>
+<text x="200" y="202" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">PR OPENED</text>
+<text x="360" y="202" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#E6EDF3">cstack</text>
+<text x="560" y="202" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">#5</text>
+<text x="28" y="224" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">21 NOV  13:10</text>
+<text x="200" y="224" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">PR MERGED</text>
+<text x="360" y="224" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#E6EDF3">cstack</text>
+<text x="560" y="224" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">#4</text>
+<text x="28" y="246" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">21 NOV  13:09</text>
+<text x="200" y="246" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">PR OPENED</text>
+<text x="360" y="246" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#E6EDF3">cstack</text>
+<text x="560" y="246" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">#4</text>
+<text x="28" y="268" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">21 NOV  13:05</text>
+<text x="200" y="268" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">PR MERGED</text>
+<text x="360" y="268" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#E6EDF3">cstack</text>
+<text x="560" y="268" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">#3</text>
+<text x="28" y="290" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">21 NOV  13:04</text>
+<text x="200" y="290" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">PR OPENED</text>
+<text x="360" y="290" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#E6EDF3">cstack</text>
+<text x="560" y="290" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">#3</text>
+<text x="28" y="312" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">21 NOV  13:03</text>
+<text x="200" y="312" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="0" fill="#22D3EE">PR MERGED</text>
+<text x="360" y="312" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0" fill="#E6EDF3">starship-flight-15-sim</text>
+<text x="560" y="312" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8B9AAB">#3</text>
+<text x="28" y="342" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="9" font-weight="400" letter-spacing="0" fill="#8B9AAB">Public events only. Private off-hours work is omitted, not shown as zero. Titles that would leak a private name or a reserved domain are dropped.</text>
+</svg>
