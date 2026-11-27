@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 353" width="860" height="353" role="img" aria-labelledby="gt-light-t gt-light-d">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340" width="860" height="340" role="img" aria-labelledby="gt-light-t gt-light-d">
 <title id="gt-light-t">Ground track of contributions</title>
-<desc id="gt-light-d">Contribution ground track from 2025-11-27 to 2026-11-26: 1730 contributions, 110 active days, peak 88 on 2026-10-24.</desc>
+<desc id="gt-light-d">Contribution ground track from 2025-11-28 to 2026-11-27: 1730 contributions, 110 active days, peak 88 on 2026-10-24.</desc>
 <style>
 .pulse{animation:pulse 2.8s ease-in-out infinite}
 @keyframes pulse{50%{opacity:.35}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
-<rect width="860" height="353" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<rect width="860" height="340" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
 <rect x="28" y="18" width="28" height="3" rx="1.5" fill="#0891B2"/>
 <text x="28" y="42" text-anchor="start" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" letter-spacing="1.8" fill="#0891B2">GROUND TRACK  //  LAST 365 DAYS</text>
 <circle class="pulse" cx="818" cy="38" r="3.5" fill="#0891B2"/>
-<text x="808" y="42" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0.4" fill="#64748B">27 NOV 2025  →  26 NOV 2026</text>
+<text x="808" y="42" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" letter-spacing="0.4" fill="#64748B">28 NOV 2025  →  27 NOV 2026</text>
 <line x1="40" y1="58.0" x2="820" y2="58.0" stroke="#E2E8F0" stroke-width="1"/>
 <line x1="40" y1="81.3" x2="820" y2="81.3" stroke="#E2E8F0" stroke-width="1"/>
 <line x1="40" y1="104.7" x2="820" y2="104.7" stroke="#E2E8F0" stroke-width="1"/>
@@ -156,7 +156,6 @@
 <text x="103.0" y="260" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="7" font-weight="400" letter-spacing="0" fill="#64748B">T</text>
 <text x="103.0" y="284" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="7" font-weight="400" letter-spacing="0" fill="#64748B">T</text>
 <text x="103.0" y="308" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="7" font-weight="400" letter-spacing="0" fill="#64748B">S</text>
-<rect x="113.0" y="276.0" width="10" height="10" rx="2" fill="#F1F5F9"><title>2025-11-27: 0</title></rect>
 <rect x="113.0" y="288.0" width="10" height="10" rx="2" fill="#F1F5F9"><title>2025-11-28: 0</title></rect>
 <rect x="113.0" y="300.0" width="10" height="10" rx="2" fill="#F1F5F9"><title>2025-11-29: 0</title></rect>
 <rect x="125.0" y="228.0" width="10" height="10" rx="2" fill="#F1F5F9"><title>2025-11-30: 0</title></rect>
@@ -521,6 +520,6 @@
 <rect x="737.0" y="252.0" width="10" height="10" rx="2" fill="#A5F3FC"><title>2026-11-24: 9</title></rect>
 <rect x="737.0" y="264.0" width="10" height="10" rx="2" fill="#A5F3FC"><title>2026-11-25: 5</title></rect>
 <rect x="737.0" y="276.0" width="10" height="10" rx="2" fill="#F1F5F9"><title>2026-11-26: 0</title></rect>
-<text x="28" y="328" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="9" font-weight="400" letter-spacing="0" fill="#64748B">1,730 contributions · 110 active days · peak 88 on 24 OCT 2026 · streak 49 days (8 OCT 2026 – 25 NOV 2026). Combined daily totals; private work is never broken out per day. The quiet stretch</text>
-<text x="28" y="341" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="9" font-weight="400" letter-spacing="0" fill="#64748B">in June is real.</text>
+<rect x="737.0" y="288.0" width="10" height="10" rx="2" fill="#F1F5F9"><title>2026-11-27: 0</title></rect>
+<text x="28" y="328" text-anchor="start" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="9" font-weight="400" letter-spacing="0" fill="#64748B">1,730 contributions · 110 active days · peak 88 on 24 OCT 2026 · no active streak. Combined daily totals; private work is never broken out per day. The quiet stretch in June is real.</text>
 </svg>
