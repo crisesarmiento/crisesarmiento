@@ -26,7 +26,8 @@ reliable: tools that show what an agent actually did, and workflows that don't h
 
 - Leading AI-assisted engineering and delivery at a software consultancy.
 - Building **Route** on nights and weekends.
-- Running my own agent stack on Linux (Omarchy) and macOS, with OpenCode at the center.
+- Running OpenCode and Orca workflows on Linux (Omarchy) and macOS, with my stack versioned in [cstack](https://github.com/crisesarmiento/cstack).
+- Working on early-stage agent tools: webhook routing with hookroute and safety checks with opencode-safety-gate.
 
 ## Building
 
@@ -58,14 +59,21 @@ Data from the provincial transparency portal; not an official government site.
 
 `Python` · `DuckDB` · MIT
 
+### Early stage
+
+- [hookroute](https://github.com/crisesarmiento/hookroute): a local, stateless webhook router for coding agents, routing by repo, state and conditions with dedupe and cooldown. Spec first; runtime code is not published yet.
+- [opencode-safety-gate](https://github.com/crisesarmiento/opencode-safety-gate): a configurable, fail-closed OpenCode plugin for allow / ask / deny checks on shell commands and agent edits. Pre-0.1, with a spec and test cases; implementation proceeds through small issues, one PR each. Independent community project, not official OpenCode.
+
 <details>
 <summary>Smaller tools</summary>
 
 - [opencode-context-usage](https://github.com/crisesarmiento/opencode-context-usage): a `/context` command for OpenCode that shows what's eating your context window.
 - [cstack](https://github.com/crisesarmiento/cstack): a versioned AI coding stack — skills, principles and OpenCode presets.
+- [repo-template](https://github.com/crisesarmiento/repo-template): a template for my repos — labels, issue and PR templates, community files and setup docs.
 - [TestSense](https://github.com/crisesarmiento/testsense): AI-assisted test gap analysis for TypeScript codebases. An early 2023 experiment, now paused.
 - [omarchy-mgame-mixer](https://github.com/crisesarmiento/omarchy-mgame-mixer) and [omarchy-elgato-camerahub](https://github.com/crisesarmiento/omarchy-elgato-camerahub): Omarchy bar widgets for my audio interface and cameras.
 - [invoice-scope](https://github.com/crisesarmiento/invoice-scope): invoice generator for contractors (Next.js, Prisma, Postgres, one-command Docker boot).
+- [anno-1800-expert-buddy](https://github.com/crisesarmiento/anno-1800-expert-buddy): a local web app and Spanish-language desktop companion for an Anno 1800 campaign.
 
 </details>
 
